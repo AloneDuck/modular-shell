@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "id": "capability-003",
+    "remote": "accounts",
+    "capability": "profile.read",
+    "effect": "allow"
+  }
+]

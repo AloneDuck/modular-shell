@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "id": "route-002",
+    "remote": "checkout",
+    "route": "/checkout",
+    "precedence": 2,
+    "fallback": "/unavailable"
+  }
+]

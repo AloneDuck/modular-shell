@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "id": "manifest-001",
+    "remote": "catalog",
+    "version": "1.0.0",
+    "integrity": "sha384-required",
+    "expected": "reject"
+  }
+]

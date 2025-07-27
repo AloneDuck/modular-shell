@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "id": "failure-004",
+    "remote": "support",
+    "cause": "runtime",
+    "retryable": false,
+    "keepsNavigation": true
+  }
+]

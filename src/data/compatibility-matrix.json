@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "id": "compat-005",
+    "remoteVersion": "1.0.0",
+    "hostVersion": "2.4.0",
+    "expected": "incompatible"
+  }
+]

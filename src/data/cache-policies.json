@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "id": "cache-006",
+    "remote": "catalog",
+    "maxAgeSeconds": 90,
+    "staleIfErrorSeconds": 360,
+    "revalidate": true
+  }
+]

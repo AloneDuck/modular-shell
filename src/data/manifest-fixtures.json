@@ -5,5 +5,12 @@
     "version": "1.0.0",
     "integrity": "sha384-required",
     "expected": "reject"
+  },
+  {
+    "id": "manifest-007",
+    "remote": "checkout",
+    "version": "3.6.0",
+    "integrity": "sha384-required",
+    "expected": "accept"
   }
 ]

@@ -12,5 +12,12 @@
     "route": "/accounts",
     "precedence": 3,
     "fallback": "/unavailable"
+  },
+  {
+    "id": "route-014",
+    "remote": "support",
+    "route": "/support",
+    "precedence": 4,
+    "fallback": "/unavailable"
   }
 ]

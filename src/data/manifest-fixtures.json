@@ -12,5 +12,12 @@
     "version": "3.6.0",
     "integrity": "sha384-required",
     "expected": "accept"
+  },
+  {
+    "id": "manifest-013",
+    "remote": "accounts",
+    "version": "1.2.0",
+    "integrity": "sha384-required",
+    "expected": "accept"
   }
 ]

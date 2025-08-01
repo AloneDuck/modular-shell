@@ -5,5 +5,12 @@
     "maxAgeSeconds": 90,
     "staleIfErrorSeconds": 360,
     "revalidate": true
+  },
+  {
+    "id": "cache-012",
+    "remote": "checkout",
+    "maxAgeSeconds": 60,
+    "staleIfErrorSeconds": 360,
+    "revalidate": true
   }
 ]

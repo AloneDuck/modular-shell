@@ -5,5 +5,12 @@
     "cause": "runtime",
     "retryable": false,
     "keepsNavigation": true
+  },
+  {
+    "id": "failure-010",
+    "remote": "analytics",
+    "cause": "incompatible-host",
+    "retryable": false,
+    "keepsNavigation": true
   }
 ]

@@ -10,5 +10,11 @@
     "remote": "support",
     "capability": "products.read",
     "effect": "allow"
+  },
+  {
+    "id": "capability-015",
+    "remote": "analytics",
+    "capability": "profile.read",
+    "effect": "deny"
   }
 ]

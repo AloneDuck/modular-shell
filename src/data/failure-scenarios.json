@@ -12,5 +12,12 @@
     "cause": "incompatible-host",
     "retryable": false,
     "keepsNavigation": true
+  },
+  {
+    "id": "failure-016",
+    "remote": "catalog",
+    "cause": "timeout",
+    "retryable": false,
+    "keepsNavigation": true
   }
 ]

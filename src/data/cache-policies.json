@@ -12,5 +12,12 @@
     "maxAgeSeconds": 60,
     "staleIfErrorSeconds": 360,
     "revalidate": true
+  },
+  {
+    "id": "cache-018",
+    "remote": "accounts",
+    "maxAgeSeconds": 30,
+    "staleIfErrorSeconds": 360,
+    "revalidate": true
   }
 ]

@@ -19,5 +19,12 @@
     "route": "/support",
     "precedence": 4,
     "fallback": "/unavailable"
+  },
+  {
+    "id": "route-020",
+    "remote": "analytics",
+    "route": "/analytics",
+    "precedence": 5,
+    "fallback": "/unavailable"
   }
 ]

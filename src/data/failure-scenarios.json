@@ -19,5 +19,12 @@
     "cause": "timeout",
     "retryable": false,
     "keepsNavigation": true
+  },
+  {
+    "id": "failure-022",
+    "remote": "checkout",
+    "cause": "integrity",
+    "retryable": false,
+    "keepsNavigation": true
   }
 ]

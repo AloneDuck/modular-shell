@@ -16,5 +16,11 @@
     "remote": "analytics",
     "capability": "profile.read",
     "effect": "deny"
+  },
+  {
+    "id": "capability-021",
+    "remote": "catalog",
+    "capability": "products.read",
+    "effect": "allow"
   }
 ]

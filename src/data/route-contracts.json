@@ -26,5 +26,12 @@
     "route": "/analytics",
     "precedence": 5,
     "fallback": "/unavailable"
+  },
+  {
+    "id": "route-026",
+    "remote": "catalog",
+    "route": "/catalog",
+    "precedence": 1,
+    "fallback": "/unavailable"
   }
 ]

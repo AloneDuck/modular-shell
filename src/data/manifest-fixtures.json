@@ -26,5 +26,12 @@
     "version": "3.8.0",
     "integrity": "sha384-required",
     "expected": "reject"
+  },
+  {
+    "id": "manifest-025",
+    "remote": "analytics",
+    "version": "1.4.0",
+    "integrity": "sha384-required",
+    "expected": "accept"
   }
 ]

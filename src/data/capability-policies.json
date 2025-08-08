@@ -22,5 +22,11 @@
     "remote": "catalog",
     "capability": "products.read",
     "effect": "allow"
+  },
+  {
+    "id": "capability-027",
+    "remote": "checkout",
+    "capability": "profile.read",
+    "effect": "allow"
   }
 ]

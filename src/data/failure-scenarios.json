@@ -26,5 +26,12 @@
     "cause": "integrity",
     "retryable": false,
     "keepsNavigation": true
+  },
+  {
+    "id": "failure-028",
+    "remote": "accounts",
+    "cause": "network",
+    "retryable": false,
+    "keepsNavigation": true
   }
 ]

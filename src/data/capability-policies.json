@@ -28,5 +28,11 @@
     "remote": "checkout",
     "capability": "profile.read",
     "effect": "allow"
+  },
+  {
+    "id": "capability-033",
+    "remote": "accounts",
+    "capability": "products.read",
+    "effect": "allow"
   }
 ]

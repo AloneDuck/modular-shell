@@ -33,5 +33,12 @@
     "version": "1.4.0",
     "integrity": "sha384-required",
     "expected": "accept"
+  },
+  {
+    "id": "manifest-031",
+    "remote": "catalog",
+    "version": "3.0.0",
+    "integrity": "sha384-required",
+    "expected": "accept"
   }
 ]

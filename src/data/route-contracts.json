@@ -33,5 +33,12 @@
     "route": "/catalog",
     "precedence": 1,
     "fallback": "/unavailable"
+  },
+  {
+    "id": "route-032",
+    "remote": "checkout",
+    "route": "/checkout",
+    "precedence": 2,
+    "fallback": "/unavailable"
   }
 ]

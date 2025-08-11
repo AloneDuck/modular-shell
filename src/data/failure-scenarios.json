@@ -33,5 +33,12 @@
     "cause": "network",
     "retryable": false,
     "keepsNavigation": true
+  },
+  {
+    "id": "failure-034",
+    "remote": "support",
+    "cause": "runtime",
+    "retryable": false,
+    "keepsNavigation": true
   }
 ]

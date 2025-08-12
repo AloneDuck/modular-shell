@@ -33,5 +33,12 @@
     "maxAgeSeconds": 90,
     "staleIfErrorSeconds": 360,
     "revalidate": true
+  },
+  {
+    "id": "cache-036",
+    "remote": "catalog",
+    "maxAgeSeconds": 60,
+    "staleIfErrorSeconds": 360,
+    "revalidate": true
   }
 ]

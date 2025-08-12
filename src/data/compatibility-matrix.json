@@ -28,5 +28,11 @@
     "remoteVersion": "1.0.0",
     "hostVersion": "2.8.0",
     "expected": "incompatible"
+  },
+  {
+    "id": "compat-035",
+    "remoteVersion": "3.0.0",
+    "hostVersion": "2.4.0",
+    "expected": "compatible"
   }
 ]

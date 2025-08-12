@@ -40,5 +40,12 @@
     "version": "3.0.0",
     "integrity": "sha384-required",
     "expected": "accept"
+  },
+  {
+    "id": "manifest-037",
+    "remote": "checkout",
+    "version": "1.6.0",
+    "integrity": "sha384-required",
+    "expected": "reject"
   }
 ]

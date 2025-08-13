@@ -40,5 +40,12 @@
     "route": "/checkout",
     "precedence": 2,
     "fallback": "/unavailable"
+  },
+  {
+    "id": "route-038",
+    "remote": "accounts",
+    "route": "/accounts",
+    "precedence": 3,
+    "fallback": "/unavailable"
   }
 ]

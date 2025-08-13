@@ -34,5 +34,11 @@
     "remote": "accounts",
     "capability": "products.read",
     "effect": "allow"
+  },
+  {
+    "id": "capability-039",
+    "remote": "support",
+    "capability": "profile.read",
+    "effect": "allow"
   }
 ]
